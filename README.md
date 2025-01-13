@@ -112,14 +112,6 @@ Submit a pull request with detailed information about your changes.
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Contact
-For any queries or support:
-
-Email: support@textprocessor.com
-GitHub Issues: Open an Issue
-markdown
-Copy code
-
 ### Key Highlights:
 
 - Reflects the SaaS nature of the platform.
